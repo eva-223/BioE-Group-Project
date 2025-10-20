@@ -1,3 +1,4 @@
 # BioE-Group-Project
-import math
-print("hii")
+import math 
+import matplotlib.pyplot as plt
+import pandas as pd 
